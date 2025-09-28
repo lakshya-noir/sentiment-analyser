@@ -1,0 +1,7 @@
+text,sentiment,score
+he killed the wretched woman,NEGATIVE,0.9549065828323364
+"You're no good, you'll die lonely",NEGATIVE,0.998892605304718
+He is a lovely father,POSITIVE,0.9966262578964233
+He is very caring,POSITIVE,0.9977161884307861
+He’s stupid to think that,NEGATIVE,0.999700665473938
+He’s not charismatic at,NEGATIVE,0.9478951692581177
