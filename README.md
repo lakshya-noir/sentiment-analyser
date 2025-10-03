@@ -1,4 +1,4 @@
-# 😎 Sentiment Analyser
+# Sentiment Analyser 💭
 
 ![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
@@ -7,7 +7,7 @@ Analyze the mood of your text effortlessly! This Python tool reads **text input*
 
 ---
 
-## ✨ Features
+## ⭐️ Features
 - 💬 Analyze **direct text input**
 - 📄 Analyze **text files**
 - 📊 Save results to **CSV** for further analysis
